@@ -1,0 +1,8 @@
+**/*.pyc
+**/.coverage
+**/*.swp
+**/htmlcov
+**/.mypy_cache
+.install
+.flake
+
